@@ -8,3 +8,4 @@ Articles to read
 * https://docs.abp.io/en/abp/latest/Best-Practices/Data-Transfer-Objects
 * https://medium.com/@auksirgul/e2e-testing-explained-in-simple-words-18c14034b2f9
 * https://www.dofactory.com/net/builder-design-pattern
+* https://www.lambdatest.com/blog/best-php-testing-frameworks-2021/
