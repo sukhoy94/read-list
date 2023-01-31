@@ -9,3 +9,4 @@ Articles to read
 * https://medium.com/@auksirgul/e2e-testing-explained-in-simple-words-18c14034b2f9
 * https://www.dofactory.com/net/builder-design-pattern
 * https://www.lambdatest.com/blog/best-php-testing-frameworks-2021/
+* https://blog.devgenius.io/stop-using-entities-in-symfony-forms-c42ec0f5fcf6
