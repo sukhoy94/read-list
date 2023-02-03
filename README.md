@@ -10,3 +10,14 @@ Articles to read
 * https://www.dofactory.com/net/builder-design-pattern
 * https://www.lambdatest.com/blog/best-php-testing-frameworks-2021/
 * https://blog.devgenius.io/stop-using-entities-in-symfony-forms-c42ec0f5fcf6
+
+
+### ab tests
+
+https://habr.com/ru/post/233911/
+
+https://devcycle.com/blog/how-booking-com-a-b-tests-like-nobodys-business
+
+https://habr.com/ru/company/boodet_online/blog/498688/
+
+https://habr.com/ru/company/otus/blog/546168/
