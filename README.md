@@ -21,3 +21,5 @@ https://devcycle.com/blog/how-booking-com-a-b-tests-like-nobodys-business
 https://habr.com/ru/company/boodet_online/blog/498688/
 
 https://habr.com/ru/company/otus/blog/546168/
+
+https://abrouter.com/en/symfony-ab-tests
