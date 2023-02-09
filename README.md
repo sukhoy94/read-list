@@ -23,3 +23,11 @@ https://habr.com/ru/company/boodet_online/blog/498688/
 https://habr.com/ru/company/otus/blog/546168/
 
 https://abrouter.com/en/symfony-ab-tests
+
+
+### RPC 
+https://habr.com/ru/post/709362/
+
+https://habr.com/ru/post/441854/
+
+https://cloud.google.com/apis/design
