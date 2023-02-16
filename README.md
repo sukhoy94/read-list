@@ -31,3 +31,8 @@ https://habr.com/ru/post/709362/
 https://habr.com/ru/post/441854/
 
 https://cloud.google.com/apis/design
+
+
+### hacking 
+
+https://www.youtube.com/watch?v=fNzpcB7ODxQ&ab_channel=TheCyberMentor
